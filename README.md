@@ -1,5 +1,5 @@
-![](https://github.com/TomBolton/ClimateDataDemo/blob/master/nerc_logo.png, "NERC logo" ) 
-![](https://github.com/TomBolton/ClimateDataDemo/blob/master/ox_logo.png, "Ox Uni Logo" )
+![](nerc_logo.png ) 
+![](ox_logo.png )
 
 # Climate Data Demonstration
 
