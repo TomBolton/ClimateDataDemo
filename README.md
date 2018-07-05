@@ -10,5 +10,7 @@ The main component of this repo is a jupyter notebook, that can be run interacti
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/TomBolton/ClimateDataDemo/master)
 
 ^
+
 |
+
 To launch the notebook using MyBinder, click on the above badge.
